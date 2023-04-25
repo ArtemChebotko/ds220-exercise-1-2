@@ -35,6 +35,7 @@ The video metadata is made up of:
 | title            | text      |
 | user_id          | uuid      |
 
+<br/>
 
 ✅ Review the contents of the CSV file with video metadata:
 ```

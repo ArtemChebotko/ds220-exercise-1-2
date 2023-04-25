@@ -27,7 +27,7 @@ Next we will explore some other CQL commands that will come in handy, like `TRUN
 
 ✅ Let's remove the data from our table using `TRUNCATE`:
 ```
-TRUNCATE videos.csv;
+TRUNCATE videos;
 ```
 
 ✅ Use `SELECT` to verify that the table is empty:

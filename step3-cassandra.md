@@ -25,7 +25,7 @@
 
 ✅ Load the newly created table with the `videos.csv` file using the `COPY` command:
 ```
-COPY videos FROM 'videos.csv' WITH HEADER=true;
+COPY videos FROM 'assets/videos.csv' WITH HEADER=true;
 ```
 
 ✅ Use `SELECT` to verify the data loaded correctly. Include `LIMIT` to retrieve only the first 10 rows.
