@@ -23,7 +23,6 @@
 
 <div class="step-title">Truncate the table</div>
 
-Next we will explore some other CQL commands that will come in handy, like `TRUNCATE` in a later exercise, we will show you how to add/remove (non-primary key) columns.
 
 ✅ Let's remove the data from our table using `TRUNCATE`:
 ```
