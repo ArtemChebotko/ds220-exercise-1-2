@@ -39,7 +39,7 @@ The video metadata is made up of:
 
 ✅ Review the contents of the CSV file with video metadata:
 ```
-cat assets/videos.csv
+head -n 10 assets/videos.csv
 ```
 
 IMPORTANT: Notice the order of the columns matches the order shown above.
